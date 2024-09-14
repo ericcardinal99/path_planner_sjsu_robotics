@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/trial_project/trial_project.egg-info
+writing ../../build/trial_project/trial_project.egg-info/PKG-INFO
+writing dependency_links to ../../build/trial_project/trial_project.egg-info/dependency_links.txt
+writing entry points to ../../build/trial_project/trial_project.egg-info/entry_points.txt
+writing requirements to ../../build/trial_project/trial_project.egg-info/requires.txt
+writing top-level names to ../../build/trial_project/trial_project.egg-info/top_level.txt
+writing manifest file '../../build/trial_project/trial_project.egg-info/SOURCES.txt'
+reading manifest file '../../build/trial_project/trial_project.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/trial_project/trial_project.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ericcardinal/trial_project/project_root/build/trial_project/build
+creating /home/ericcardinal/trial_project/project_root/build/trial_project/build/lib
+creating /home/ericcardinal/trial_project/project_root/build/trial_project/build/lib/trial_project
+copying trial_project/__init__.py -> /home/ericcardinal/trial_project/project_root/build/trial_project/build/lib/trial_project
+running install
+running install_lib
+creating /home/ericcardinal/trial_project/project_root/install/trial_project/lib/python3.10/site-packages/trial_project
+copying /home/ericcardinal/trial_project/project_root/build/trial_project/build/lib/trial_project/__init__.py -> /home/ericcardinal/trial_project/project_root/install/trial_project/lib/python3.10/site-packages/trial_project
+byte-compiling /home/ericcardinal/trial_project/project_root/install/trial_project/lib/python3.10/site-packages/trial_project/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ericcardinal/trial_project/project_root/install/trial_project/share/ament_index
+creating /home/ericcardinal/trial_project/project_root/install/trial_project/share/ament_index/resource_index
+creating /home/ericcardinal/trial_project/project_root/install/trial_project/share/ament_index/resource_index/packages
+copying resource/trial_project -> /home/ericcardinal/trial_project/project_root/install/trial_project/share/ament_index/resource_index/packages
+copying package.xml -> /home/ericcardinal/trial_project/project_root/install/trial_project/share/trial_project
+running install_egg_info
+Copying ../../build/trial_project/trial_project.egg-info to /home/ericcardinal/trial_project/project_root/install/trial_project/lib/python3.10/site-packages/trial_project-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ericcardinal/trial_project/project_root/build/trial_project/install.log'

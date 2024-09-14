@@ -1,0 +1,38 @@
+[0.900s] Invoking command in '/home/ericcardinal/trial_project/project_root/src/my_package': PYTHONPATH=/home/ericcardinal/trial_project/project_root/build/my_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ericcardinal/trial_project/project_root/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /home/ericcardinal/trial_project/project_root/build/my_package/build install --record /home/ericcardinal/trial_project/project_root/build/my_package/install.log --single-version-externally-managed install_data
+[1.115s] running egg_info
+[1.115s] creating ../../build/my_package/my_package.egg-info
+[1.116s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[1.116s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[1.116s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[1.116s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[1.117s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[1.117s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.118s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.118s] adding license file 'LICENSE'
+[1.119s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.119s] running build
+[1.119s] running build_py
+[1.120s] creating /home/ericcardinal/trial_project/project_root/build/my_package/build
+[1.120s] creating /home/ericcardinal/trial_project/project_root/build/my_package/build/lib
+[1.120s] creating /home/ericcardinal/trial_project/project_root/build/my_package/build/lib/my_package
+[1.121s] copying my_package/my_node.py -> /home/ericcardinal/trial_project/project_root/build/my_package/build/lib/my_package
+[1.121s] copying my_package/__init__.py -> /home/ericcardinal/trial_project/project_root/build/my_package/build/lib/my_package
+[1.121s] running install
+[1.122s] running install_lib
+[1.122s] creating /home/ericcardinal/trial_project/project_root/install/my_package/lib/python3.10/site-packages/my_package
+[1.123s] copying /home/ericcardinal/trial_project/project_root/build/my_package/build/lib/my_package/my_node.py -> /home/ericcardinal/trial_project/project_root/install/my_package/lib/python3.10/site-packages/my_package
+[1.124s] copying /home/ericcardinal/trial_project/project_root/build/my_package/build/lib/my_package/__init__.py -> /home/ericcardinal/trial_project/project_root/install/my_package/lib/python3.10/site-packages/my_package
+[1.124s] byte-compiling /home/ericcardinal/trial_project/project_root/install/my_package/lib/python3.10/site-packages/my_package/my_node.py to my_node.cpython-310.pyc
+[1.125s] byte-compiling /home/ericcardinal/trial_project/project_root/install/my_package/lib/python3.10/site-packages/my_package/__init__.py to __init__.cpython-310.pyc
+[1.125s] running install_data
+[1.125s] creating /home/ericcardinal/trial_project/project_root/install/my_package/share/ament_index
+[1.125s] creating /home/ericcardinal/trial_project/project_root/install/my_package/share/ament_index/resource_index
+[1.125s] creating /home/ericcardinal/trial_project/project_root/install/my_package/share/ament_index/resource_index/packages
+[1.125s] copying resource/my_package -> /home/ericcardinal/trial_project/project_root/install/my_package/share/ament_index/resource_index/packages
+[1.126s] copying package.xml -> /home/ericcardinal/trial_project/project_root/install/my_package/share/my_package
+[1.126s] running install_egg_info
+[1.128s] Copying ../../build/my_package/my_package.egg-info to /home/ericcardinal/trial_project/project_root/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info
+[1.129s] running install_scripts
+[1.154s] Installing my_node script to /home/ericcardinal/trial_project/project_root/install/my_package/lib/my_package
+[1.155s] writing list of installed files to '/home/ericcardinal/trial_project/project_root/build/my_package/install.log'
+[1.189s] Invoked command in '/home/ericcardinal/trial_project/project_root/src/my_package' returned '0': PYTHONPATH=/home/ericcardinal/trial_project/project_root/build/my_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ericcardinal/trial_project/project_root/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_package build --build-base /home/ericcardinal/trial_project/project_root/build/my_package/build install --record /home/ericcardinal/trial_project/project_root/build/my_package/install.log --single-version-externally-managed install_data
