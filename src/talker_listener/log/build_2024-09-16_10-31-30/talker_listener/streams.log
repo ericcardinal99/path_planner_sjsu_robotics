@@ -1,0 +1,41 @@
+[0.356s] Invoking command in '/home/ericcardinal/trial_project/src/talker_listener': PYTHONPATH=/home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/talker_listener build --build-base /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/build install --record /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/install.log --single-version-externally-managed install_data
+[0.479s] running egg_info
+[0.479s] creating build/talker_listener/talker_listener.egg-info
+[0.479s] writing build/talker_listener/talker_listener.egg-info/PKG-INFO
+[0.479s] writing dependency_links to build/talker_listener/talker_listener.egg-info/dependency_links.txt
+[0.480s] writing entry points to build/talker_listener/talker_listener.egg-info/entry_points.txt
+[0.480s] writing requirements to build/talker_listener/talker_listener.egg-info/requires.txt
+[0.480s] writing top-level names to build/talker_listener/talker_listener.egg-info/top_level.txt
+[0.480s] writing manifest file 'build/talker_listener/talker_listener.egg-info/SOURCES.txt'
+[0.481s] reading manifest file 'build/talker_listener/talker_listener.egg-info/SOURCES.txt'
+[0.481s] writing manifest file 'build/talker_listener/talker_listener.egg-info/SOURCES.txt'
+[0.481s] running build
+[0.482s] running build_py
+[0.482s] creating /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/build
+[0.482s] creating /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/build/lib
+[0.482s] creating /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/build/lib/talker_listener
+[0.482s] copying talker_listener/listener_node.py -> /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/build/lib/talker_listener
+[0.482s] copying talker_listener/__init__.py -> /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/build/lib/talker_listener
+[0.482s] copying talker_listener/talker_node.py -> /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/build/lib/talker_listener
+[0.483s] running install
+[0.483s] running install_lib
+[0.483s] creating /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/python3.10/site-packages/talker_listener
+[0.483s] copying /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/build/lib/talker_listener/listener_node.py -> /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/python3.10/site-packages/talker_listener
+[0.484s] copying /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/build/lib/talker_listener/__init__.py -> /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/python3.10/site-packages/talker_listener
+[0.484s] copying /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/build/lib/talker_listener/talker_node.py -> /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/python3.10/site-packages/talker_listener
+[0.484s] byte-compiling /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/python3.10/site-packages/talker_listener/listener_node.py to listener_node.cpython-310.pyc
+[0.484s] byte-compiling /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/python3.10/site-packages/talker_listener/__init__.py to __init__.cpython-310.pyc
+[0.485s] byte-compiling /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/python3.10/site-packages/talker_listener/talker_node.py to talker_node.cpython-310.pyc
+[0.485s] running install_data
+[0.485s] creating /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/share/ament_index
+[0.485s] creating /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/share/ament_index/resource_index
+[0.485s] creating /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/share/ament_index/resource_index/packages
+[0.485s] copying resource/talker_listener -> /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/share/ament_index/resource_index/packages
+[0.486s] copying package.xml -> /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/share/talker_listener
+[0.486s] running install_egg_info
+[0.487s] Copying build/talker_listener/talker_listener.egg-info to /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/python3.10/site-packages/talker_listener-0.0.0-py3.10.egg-info
+[0.487s] running install_scripts
+[0.502s] Installing listenerNode script to /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/talker_listener
+[0.503s] Installing talkerNode script to /home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/talker_listener
+[0.503s] writing list of installed files to '/home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/install.log'
+[0.522s] Invoked command in '/home/ericcardinal/trial_project/src/talker_listener' returned '0': PYTHONPATH=/home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ericcardinal/trial_project/src/talker_listener/install/talker_listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/talker_listener build --build-base /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/build install --record /home/ericcardinal/trial_project/src/talker_listener/build/talker_listener/install.log --single-version-externally-managed install_data

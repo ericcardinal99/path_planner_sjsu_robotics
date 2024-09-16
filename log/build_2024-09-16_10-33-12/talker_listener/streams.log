@@ -1,0 +1,25 @@
+[0.399s] Invoking command in '/home/ericcardinal/trial_project/src/talker_listener': PYTHONPATH=/home/ericcardinal/trial_project/build/talker_listener/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ericcardinal/trial_project/install/talker_listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/talker_listener build --build-base /home/ericcardinal/trial_project/build/talker_listener/build install --record /home/ericcardinal/trial_project/build/talker_listener/install.log --single-version-externally-managed install_data
+[0.533s] running egg_info
+[0.533s] writing ../../build/talker_listener/talker_listener.egg-info/PKG-INFO
+[0.534s] writing dependency_links to ../../build/talker_listener/talker_listener.egg-info/dependency_links.txt
+[0.534s] writing entry points to ../../build/talker_listener/talker_listener.egg-info/entry_points.txt
+[0.534s] writing requirements to ../../build/talker_listener/talker_listener.egg-info/requires.txt
+[0.534s] writing top-level names to ../../build/talker_listener/talker_listener.egg-info/top_level.txt
+[0.535s] reading manifest file '../../build/talker_listener/talker_listener.egg-info/SOURCES.txt'
+[0.537s] writing manifest file '../../build/talker_listener/talker_listener.egg-info/SOURCES.txt'
+[0.537s] running build
+[0.537s] running build_py
+[0.537s] copying talker_listener/listener_node.py -> /home/ericcardinal/trial_project/build/talker_listener/build/lib/talker_listener
+[0.538s] running install
+[0.538s] running install_lib
+[0.539s] copying /home/ericcardinal/trial_project/build/talker_listener/build/lib/talker_listener/listener_node.py -> /home/ericcardinal/trial_project/install/talker_listener/lib/python3.10/site-packages/talker_listener
+[0.539s] byte-compiling /home/ericcardinal/trial_project/install/talker_listener/lib/python3.10/site-packages/talker_listener/listener_node.py to listener_node.cpython-310.pyc
+[0.540s] running install_data
+[0.540s] running install_egg_info
+[0.541s] removing '/home/ericcardinal/trial_project/install/talker_listener/lib/python3.10/site-packages/talker_listener-0.0.0-py3.10.egg-info' (and everything under it)
+[0.541s] Copying ../../build/talker_listener/talker_listener.egg-info to /home/ericcardinal/trial_project/install/talker_listener/lib/python3.10/site-packages/talker_listener-0.0.0-py3.10.egg-info
+[0.542s] running install_scripts
+[0.559s] Installing listenerNode script to /home/ericcardinal/trial_project/install/talker_listener/lib/talker_listener
+[0.559s] Installing talkerNode script to /home/ericcardinal/trial_project/install/talker_listener/lib/talker_listener
+[0.559s] writing list of installed files to '/home/ericcardinal/trial_project/build/talker_listener/install.log'
+[0.577s] Invoked command in '/home/ericcardinal/trial_project/src/talker_listener' returned '0': PYTHONPATH=/home/ericcardinal/trial_project/build/talker_listener/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ericcardinal/trial_project/install/talker_listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/talker_listener build --build-base /home/ericcardinal/trial_project/build/talker_listener/build install --record /home/ericcardinal/trial_project/build/talker_listener/install.log --single-version-externally-managed install_data
