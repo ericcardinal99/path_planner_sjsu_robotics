@@ -1,0 +1,17 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../build/publishers/publishers.egg-info/PKG-INFO
+../build/publishers/publishers.egg-info/SOURCES.txt
+../build/publishers/publishers.egg-info/dependency_links.txt
+../build/publishers/publishers.egg-info/entry_points.txt
+../build/publishers/publishers.egg-info/requires.txt
+../build/publishers/publishers.egg-info/top_level.txt
+../build/publishers/publishers.egg-info/zip-safe
+publishers/__init__.py
+publishers/publishers.py
+resource/publishers
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

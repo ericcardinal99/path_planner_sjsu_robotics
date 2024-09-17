@@ -1,0 +1,3 @@
+[console_scripts]
+publishers = publishers.publishers:main
+

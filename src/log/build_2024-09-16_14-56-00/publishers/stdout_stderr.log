@@ -1,0 +1,36 @@
+running egg_info
+creating ../build/publishers/publishers.egg-info
+writing ../build/publishers/publishers.egg-info/PKG-INFO
+writing dependency_links to ../build/publishers/publishers.egg-info/dependency_links.txt
+writing entry points to ../build/publishers/publishers.egg-info/entry_points.txt
+writing requirements to ../build/publishers/publishers.egg-info/requires.txt
+writing top-level names to ../build/publishers/publishers.egg-info/top_level.txt
+writing manifest file '../build/publishers/publishers.egg-info/SOURCES.txt'
+reading manifest file '../build/publishers/publishers.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/publishers/publishers.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ericcardinal/trial_project/src/build/publishers/build
+creating /home/ericcardinal/trial_project/src/build/publishers/build/lib
+creating /home/ericcardinal/trial_project/src/build/publishers/build/lib/publishers
+copying publishers/publishers.py -> /home/ericcardinal/trial_project/src/build/publishers/build/lib/publishers
+copying publishers/__init__.py -> /home/ericcardinal/trial_project/src/build/publishers/build/lib/publishers
+running install
+running install_lib
+creating /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers
+copying /home/ericcardinal/trial_project/src/build/publishers/build/lib/publishers/publishers.py -> /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers
+copying /home/ericcardinal/trial_project/src/build/publishers/build/lib/publishers/__init__.py -> /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers
+byte-compiling /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers/publishers.py to publishers.cpython-310.pyc
+byte-compiling /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ericcardinal/trial_project/src/install/publishers/share/ament_index
+creating /home/ericcardinal/trial_project/src/install/publishers/share/ament_index/resource_index
+creating /home/ericcardinal/trial_project/src/install/publishers/share/ament_index/resource_index/packages
+copying resource/publishers -> /home/ericcardinal/trial_project/src/install/publishers/share/ament_index/resource_index/packages
+copying package.xml -> /home/ericcardinal/trial_project/src/install/publishers/share/publishers
+running install_egg_info
+Copying ../build/publishers/publishers.egg-info to /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers-0.0.0-py3.10.egg-info
+running install_scripts
+Installing publishers script to /home/ericcardinal/trial_project/src/install/publishers/lib/publishers
+writing list of installed files to '/home/ericcardinal/trial_project/src/build/publishers/install.log'

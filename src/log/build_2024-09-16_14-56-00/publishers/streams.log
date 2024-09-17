@@ -1,0 +1,38 @@
+[0.396s] Invoking command in '/home/ericcardinal/trial_project/src/publishers': PYTHONPATH=/home/ericcardinal/trial_project/src/build/publishers/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/publishers build --build-base /home/ericcardinal/trial_project/src/build/publishers/build install --record /home/ericcardinal/trial_project/src/build/publishers/install.log --single-version-externally-managed install_data
+[0.519s] running egg_info
+[0.519s] creating ../build/publishers/publishers.egg-info
+[0.519s] writing ../build/publishers/publishers.egg-info/PKG-INFO
+[0.519s] writing dependency_links to ../build/publishers/publishers.egg-info/dependency_links.txt
+[0.519s] writing entry points to ../build/publishers/publishers.egg-info/entry_points.txt
+[0.519s] writing requirements to ../build/publishers/publishers.egg-info/requires.txt
+[0.520s] writing top-level names to ../build/publishers/publishers.egg-info/top_level.txt
+[0.520s] writing manifest file '../build/publishers/publishers.egg-info/SOURCES.txt'
+[0.520s] reading manifest file '../build/publishers/publishers.egg-info/SOURCES.txt'
+[0.520s] adding license file 'LICENSE'
+[0.521s] writing manifest file '../build/publishers/publishers.egg-info/SOURCES.txt'
+[0.521s] running build
+[0.521s] running build_py
+[0.521s] creating /home/ericcardinal/trial_project/src/build/publishers/build
+[0.521s] creating /home/ericcardinal/trial_project/src/build/publishers/build/lib
+[0.521s] creating /home/ericcardinal/trial_project/src/build/publishers/build/lib/publishers
+[0.522s] copying publishers/publishers.py -> /home/ericcardinal/trial_project/src/build/publishers/build/lib/publishers
+[0.522s] copying publishers/__init__.py -> /home/ericcardinal/trial_project/src/build/publishers/build/lib/publishers
+[0.522s] running install
+[0.522s] running install_lib
+[0.523s] creating /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers
+[0.523s] copying /home/ericcardinal/trial_project/src/build/publishers/build/lib/publishers/publishers.py -> /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers
+[0.523s] copying /home/ericcardinal/trial_project/src/build/publishers/build/lib/publishers/__init__.py -> /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers
+[0.524s] byte-compiling /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers/publishers.py to publishers.cpython-310.pyc
+[0.524s] byte-compiling /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers/__init__.py to __init__.cpython-310.pyc
+[0.524s] running install_data
+[0.525s] creating /home/ericcardinal/trial_project/src/install/publishers/share/ament_index
+[0.525s] creating /home/ericcardinal/trial_project/src/install/publishers/share/ament_index/resource_index
+[0.525s] creating /home/ericcardinal/trial_project/src/install/publishers/share/ament_index/resource_index/packages
+[0.525s] copying resource/publishers -> /home/ericcardinal/trial_project/src/install/publishers/share/ament_index/resource_index/packages
+[0.525s] copying package.xml -> /home/ericcardinal/trial_project/src/install/publishers/share/publishers
+[0.525s] running install_egg_info
+[0.527s] Copying ../build/publishers/publishers.egg-info to /home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages/publishers-0.0.0-py3.10.egg-info
+[0.527s] running install_scripts
+[0.541s] Installing publishers script to /home/ericcardinal/trial_project/src/install/publishers/lib/publishers
+[0.541s] writing list of installed files to '/home/ericcardinal/trial_project/src/build/publishers/install.log'
+[0.561s] Invoked command in '/home/ericcardinal/trial_project/src/publishers' returned '0': PYTHONPATH=/home/ericcardinal/trial_project/src/build/publishers/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ericcardinal/trial_project/src/install/publishers/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/publishers build --build-base /home/ericcardinal/trial_project/src/build/publishers/build install --record /home/ericcardinal/trial_project/src/build/publishers/install.log --single-version-externally-managed install_data
